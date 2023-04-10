@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "HU Wei / 胡维"
 title_separator          : "-"
 name                     : &name "HU Wei"
-description              : &description "personal description"
+description              : &description "Personal homepage"
 url                      : https://huwei-vincent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huwei-vincent/huwei-vincent.github.io"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
