@@ -33,3 +33,8 @@ author_profile: true
 - Expert vs Amateur: Stock Market Sentiment Diffusion in Social Media with Xin LI
 - Determinants of the Inequality in Non-fungible Tokens Markets with Hongwei MA, J Leon ZHAO, Under Revision;
 - More Toxic, More Engaged? Effects of Toxic Communication in Online Engagement in Social Media; with Leon ZHAO, Xin LI
+
+# Grants
+
+- Security Mechanism and Protection Algorithm of Blockchain (Participant, Shenzhen Science and Technology Plan Project, RIND-1614，2018.03-2021.03)
+- Investor Sentiment Prediction, Securities Selection and Dynamic Portfolio Technology based on Text Analysis and Machine Learning (Participant, Sichuan International Innovation Cooperation Project, 19GJHZ0006，2018.12-2021.12)

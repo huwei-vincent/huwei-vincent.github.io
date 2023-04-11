@@ -25,7 +25,7 @@ redirect_from:
 
 # Research Interest
 
-Fintech; Crowdfunding; Mobile Marketing; Blockchain; Stock Market
+Fintech; Crowdfunding; Mobile Marketing; Blockchain; Stock Market; Social Media
 
 # Research Methodologies
 
