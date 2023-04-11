@@ -5,7 +5,7 @@ permalink: /my-publication/
 author_profile: true
 ---
 
-# Journal Publications
+# Journal Papers Under Review
 
 - Information Processing in a Crowd-centric Financial Market: Time-varying Effects of Project Update Readability on Crowdfunding Success with Xin LI, J. Leon ZHAO ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150))
   - *Major Revision (3rd Round)* at Information Systems Research 
