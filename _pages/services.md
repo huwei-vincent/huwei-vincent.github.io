@@ -23,6 +23,6 @@ author_profile: true
 - Information Technology & People
 - Internet Review
 
-# PROFESSIONAL MEMBERSHIP
+# Professional Membership
 
 - Association of Information Systems

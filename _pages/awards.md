@@ -9,7 +9,7 @@ author_profile: true
   
 ---
 
-# HONORS & AWARDS
+# Honors and Awards
 
 - 2019.12, College of Business PhD Student Teaching Excellence Award, City University of Hong Kong
 - 2019.08, Research Tuition Scholarship (RTS), City University of Hong Kong

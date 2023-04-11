@@ -1,11 +1,12 @@
 ---
-permalink: /about-cn/
+# permalink: /about-cn/
+permalink: /
 title: ""
 excerpt: "关于我"
 author_profile: true
-# redirect_from: 
-#   - /about-cn/
-#   - /about-cn.html
+redirect_from: 
+  - /about-cn/
+  - /about-cn.html
 ---
 
 # 简介
