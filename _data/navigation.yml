@@ -29,7 +29,10 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
+  # - title: "Blog Posts"
+  #   url: https://blog.baoduge.com
+
   - title: "CV"
     url: /cv/
     
