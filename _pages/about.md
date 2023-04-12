@@ -10,7 +10,7 @@ author_profile: true
 
 # Bio
 
- - Assistant Researcher
+ - Assistant Research Fellow
  - [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/p/#/)
  - Tongji Building A, 1500 Siping Rd, Yangpu District, Shanghai, China
  - Homepage: [Tongji SEM](https://sem.tongji.edu.cn/semen/23649.html)
