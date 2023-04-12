@@ -30,7 +30,7 @@ Fintech; Crowdfunding; Mobile Marketing; Blockchain; Stock Market; Social Media
 
 # Research Methodologies
 
-- Statistics and Econometrics;
+- Applied Econometrics;
 - Data Mining
   - Natural Language Processing;
   - Machine Learning;
