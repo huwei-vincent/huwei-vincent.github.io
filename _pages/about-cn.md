@@ -14,6 +14,7 @@ redirect_from:
  - 助理研究员
  - [同济大学](https://www.tongji.edu.cn/)，[经济与管理学院](https://sem.tongji.edu.cn/semch/), 
  - 上海市杨浦区四平路1500号同济大厦A楼
+ - 个人主页：[同济经管](https://sem.tongji.edu.cn/semch/46669.html)
 
 # 教育背景
 
