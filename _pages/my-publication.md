@@ -24,7 +24,7 @@ author_profile: true
 # Working Papers
 
 - Do Project Owners Learn? Associative Learning vs. Observational Learning in Optimizing Descriptions of Crowdfunding Projects with Xin LI, Prepared for Submission;
-- The Impact of Social Media Coverage on Individuals’ Attention to Self-protection with Qiang CAO, Sijia ZHOU, Bei LUO, Liao, Under Review;
+- The Impact of Social Media Coverage on Individuals’ Attention to Self-protection with Qiang CAO, Sijia ZHOU, Bei LUO, Under Review;
 - Customer Churn Management in Bank Mobile Marketing using Hidden Markov Model; with Xin LI, Xin XU, Vijay MOOKERJEE, Under Revision;
 - Hedge Marketing: Correlation-based Robust Recommendation with Xin LI, Under Revision;
 - Innovation Novelty and Firm Value: Semantic Originality and Technology Uniqueness with Yuk Yee CHAN, Jianming HUANG, Wanyue ZHOU, Xin LI, Under Revision;
