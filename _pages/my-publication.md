@@ -5,32 +5,33 @@ permalink: /my-publication/
 author_profile: true
 ---
 
-# Journal Papers Under Review
+# Journal 
 
 - Information Processing in a Crowd-centric Financial Market: Time-varying Effects of Project Update Readability on Crowdfunding Success with Xin LI, J. Leon ZHAO ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150))
-  - *Major Revision (2nd Round)* at Information Systems Research 
+  - *Major Revision (2nd Round)* at Information Systems Research (UTD-24)
 
 ---
 
-# Conference Publications
+# Conference 
 
-- Innovation Novelty and Firm Performance: Further Understanding of Text with Yuk Yee CHAN, Jianming HUANG, Wanyue ZHOU, Xin LI, Under Review at International Conference on Information Systems (ICIS 2023)
-- CAO, Q., **HU, W.**, ZHOU, S., LUO, B., YU, Y., LIAO, S. S., ZHAO J.L. & LAU, R. Y. K. (2020). The Role of Media Coverage on Pandemic Containment: Empirical Analysis of the COVID-19 Case. 24th Pacific Asia Conference on Information Systems (PACIS 2020) ([Link](https://aisel.aisnet.org/pacis2020/162/))
-- **HU, W.** & ZHAO, J.L. (2019). The Impact of Textual Online Harassment on the Performance of Projects in Crowdfunding. 23rd Pacific Asia Conference on Information Systems (PACIS 2019) ([Link](https://aisel.aisnet.org/pacis2019/156/))
-- **HU, W.** & ZHAO, J.L. (2018). Portfolio Optimization using Investor Sentiment. [3rd International Conference on Smart Finance (ICSF2018)](http://epic.is.cityu.edu.hk/ICSF18/)
+- **Wei HU**; Yuk Yee Chan; Jianming HUANG; Wanyue ZHOU; Xin Li / Innovation Novelty and Firm Value: Deep Learning based Text Understanding. 2023; International Conference on Information Systems, [ICIS 2023](https://icis2023.aisconferences.org/).
+- **Wei HU**; Weihong MA; J. Leon ZHAO / Digital Disparity: Exploring Inequality in Non-Fungible Token Transactions. 2023; International Conference on Smart Finance, [ICSF2023]()
+- Qiang CAO; **Wei HU**; Sijia ZHOU; Bei LUO; Yuxuan YU; Shaoyi Stephen LIAO; J Leon ZHAO; Yiu Keung Raymond LAU / The Role of Media Coverage on Pandemic Containment: Empirical Analysis of the COVID-19 Case. 2020; Pacific Asia Conference on Information Systems, [PACIS 2020](https://aisel.aisnet.org/pacis2020/). ([Link](https://aisel.aisnet.org/pacis2020/162/))
+- **Wei HU**; J Leon ZHAO / The Impact of Textual Online Harassment on the Performance of Projects in Crowdfunding. 2019; Pacific Asia Conference on Information Systems, [PACIS 2019](https://aisel.aisnet.org/pacis2019/) ([Link](https://aisel.aisnet.org/pacis2019/156/))
+- **Wei HU**; J Leon ZHAO / Portfolio Optimization using Investor Sentiment. 2018; International Conference on Smart Finance, [ICSF2018](http://epic.is.cityu.edu.hk/ICSF18/)
 
 ---
 
 # Working Papers
 
-- Do Project Owners Learn? Associative Learning vs. Observational Learning in Optimizing Descriptions of Crowdfunding Projects with Xin LI, Prepared for Submission;
-- The Impact of Social Media Coverage on Individuals’ Attention to Self-protection with Qiang CAO, Sijia ZHOU, Bei LUO, Under Review;
-- Customer Churn Management in Bank Mobile Marketing using Hidden Markov Model; with Xin LI, Xin XU, Vijay MOOKERJEE, Under Revision;
-- Hedge Marketing: Correlation-based Robust Recommendation with Xin LI, Under Revision;
-- Innovation Novelty and Firm Value: Semantic Originality and Technology Uniqueness with Yuk Yee CHAN, Jianming HUANG, Wanyue ZHOU, Xin LI, Under Revision;
-- Expert vs Amateur: Stock Market Sentiment Diffusion in Social Media with Xin LI
-- Determinants of the Inequality in Non-fungible Tokens Markets with Hongwei MA, J Leon ZHAO, Under Revision;
-- More Toxic, More Engaged? Effects of Toxic Communication in Online Engagement in Social Media; with Leon ZHAO, Xin LI
+- Do Project Owners Learn? Associative Learning vs. Observational Learning in Optimizing Descriptions of Crowdfunding Projects / with Xin LI, Prepared for Submission;
+- Innovation Novelty and Firm Value: Deeper Understanding from Text / with Yuk Yee CHAN, Jianming HUANG, Wanyue ZHOU, Xin LI, Prepared for Submission;
+- Determinants of the Inequality in Non-fungible Tokens Markets / with Weihong MA, J Leon ZHAO, Prepared for Submission;
+- The Impact of Social Media Coverage on Individuals’ Attention to Self-protection / with Qiang CAO, Sijia ZHOU, Bei LUO, Prepared for Submission;
+- Customer Churn Management in Bank Mobile Marketing using Hidden Markov Model / with Xin LI, Xin XU, Vijay MOOKERJEE;
+- Hedge Marketing: Robust Recommendation based on Reinforcement Learning / with Xin LI;
+- Expert vs Amateur: Stock Market Sentiment Diffusion in Social Media / with Xin LI;
+- More Toxic, More Engaged? Effects of Toxic Communication in Online Engagement in Social Media / with J Leon ZHAO, Xin LI;
 
 # Grants
 

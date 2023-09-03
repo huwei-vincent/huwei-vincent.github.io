@@ -8,13 +8,14 @@ author_profile: true
 #   - /about.html
 ---
 
- - [Homepage at Tongji SEM](https://sem.tongji.edu.cn/semen/23649.html)
+Welcome to my personal homepage! I am a **Wei HU** and you can call me **Vincent**. I am a Assistant Research Fellow at [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/p/#/), where I specialize in the dynamic fields of Fintech, Crowdfunding, Mobile Marketing, Blockchain, and Social Media. My methodological approach is rooted in Applied Econometrics and advanced Data Mining techniques, including Natural Language Processing, Machine Learning, and Social Network Analysis. Guided by a commitment to produce research that is both intellectually stimulating and socially valuable, I strive to bridge the gap between academic theory and real-world applications.
 
 # Bio
 
  - Assistant Research Fellow
  - [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/p/#/)
  - Tongji Building A, 1500 Siping Rd, Yangpu District, Shanghai, China
+- [Homepage at Tongji SEM](https://sem.tongji.edu.cn/semen/23649.html)
 
 
 # Education

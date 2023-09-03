@@ -9,13 +9,14 @@ redirect_from:
   - /about-cn.html
 ---
 
- - [同济经管个人主页](https://sem.tongji.edu.cn/semch/46669.html)
+欢迎访问我的个人主页。我是胡维，来自的研究员，[同济大学](https://www.tongji.edu.cn/)[经济与管理学院](https://sem.tongji.edu.cn/semch/)的助理研究员, 专注于金融科技、众筹、移动营销、区块链、和社交媒体等多个研究领域。我的研究方法论基础主要在应用计量经济学和数据挖掘技术，包括自然语言处理、机器学习和社交网络分析。在追求有趣和有价值的双重目标的指导下，我致力于弥合学术理论和现实应用之间的鸿沟。
 
 # 简介
 
  - 助理研究员
- - [同济大学](https://www.tongji.edu.cn/)，[经济与管理学院](https://sem.tongji.edu.cn/semch/), 
+ - [同济大学](https://www.tongji.edu.cn/)，[经济与管理学院](https://sem.tongji.edu.cn/semch/)
  - 上海市杨浦区四平路1500号同济大厦A楼
+ - [同济经管个人主页](https://sem.tongji.edu.cn/semch/46669.html)
 
 
 # 教育背景
