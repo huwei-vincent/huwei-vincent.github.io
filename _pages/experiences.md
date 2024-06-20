@@ -11,7 +11,8 @@ author_profile: true
 
 # Academic Experiences
 
-- 2023.03-present, Assistant Research Fellow, School of Economics and Management, Tongji University
+- 2024.07-present, Distinguished Research Fellow, School of Economics and Management, Tongji University
+- 2023.03-2024.06, Assistant Research Fellow, School of Economics and Management, Tongji University
 - 2016.08-2017.08, Research Assistant, Department of Economics and Finance, City University of Hong Kong
 
 # Research Experiences
