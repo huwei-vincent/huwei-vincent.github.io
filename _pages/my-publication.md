@@ -5,15 +5,21 @@ permalink: /my-publication/
 author_profile: true
 ---
 
-# Journal 
 
-- Time-varying Effects of Project Updates on Crowdfunding Success: A Dual-process Backer Engagement Perspective / with Xin LI, J. Leon ZHAO ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150))
-  - *Major Revision* at Information Systems Research (UTD-24)
-
----
 
 # Conference 
 
+1. Xiurui YANG; **Wei HU (^)** / “The Impact of Investor Irrationality on Firm Value and Market Information
+Efficiency: Evidence from Gamestop Short Squeeze”. 2024; Conference on Information Systems and
+Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser=0)) 
+1. Ke XU; **Wei HU (^)**; Zhongyun ZHOU / “The Impact of Reward Distribution Policies on User Engagement
+and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider”. 2024; China
+Association for Information Systems Annual Meeting 2024 ([CNAIS2024](https://tjhongcheng.com/cnais2024/113.html#link1))
+1. Jiafu WANG; **Wei HU (^)** / “The Impact of Artificial Intelligence Policy on Employment: Evidence from
+China”. 2024; The 24th International Conference on Electronic Business ([ICEB2024](https://fbm.uic.edu.cn/iceb/))
+1. Xiurui YANG; **Wei HU (^)** / “The Impact of Investor Irrationality on Firm Value and Market Information
+Efficiency: Evidence from Gamestop Short Squeeze”. 2024; The 9th International Conference on Smart
+Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html))
 1. Xiurui YANG; **Wei HU (^)** / “GME Frenzy on Social Media: The Impact of Short Squeezes on Market Volatility and Predictability”. 2024; Pacific Asia Conference on Information Systems 2024, [PACIS2024](https://pacis2024.aisconferences.org/). ([Link](https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/18/))
 2. Yuk Yee CHAN; **Wei HU (^)**; Jianming HUANG; Wanyue ZHOU; Xin LI / Innovation Novelty and Firm Value: Deep Learning based Text Understanding. 2023; International Conference on Information Systems, [ICIS 2023](https://icis2023.aisconferences.org/). ([Link](https://aisel.aisnet.org/icis2023/dab_sc/dab_sc/8/))
 3. **Wei HU**; Weihong MA; J. Leon ZHAO / Digital Disparity: Exploring Inequality in Non-Fungible Token Transactions. 2023; International Conference on Smart Finance, [ICSF2023](https://cbit.cuhk.edu.cn/ICSF/ICSF23/index.html)
@@ -27,16 +33,13 @@ author_profile: true
 
 # Working Papers
 
-- Transitional Bias of Project Owners’ Learning in Crowdfunding / with Xin LI, Prepared for Submission;
-- The Impact of Government Social Media Coverage on the Public’s Attention to Self-protection / with Qiang
-CAO, Sijia ZHOU, Bei LUO, Prepared for Submission;
-- The Impact of Investor Irrationality on Firm Value and Market Efficiency / with Xiurui YANG, Draft Available
-with Request;
-- The Impact of Transitioning from PoW to Pos Mechanisms on the Inequality of Non-fungible Token Trading
-Networks / with Weihong MA, J Leon ZHAO, Draft Available with Request;
-- Personalized Customer Engagement under Tie Decay: A Deep Reinforcement Learning Approach / with Xin
-LI, Xin XU;
-- Hard Paywall vs. Preview Paywall: The Implications of Digital Paywall Design on Purchase and Refund / with Ling ZHANG, Shenyang JIANG;
+1. Transitional Bias of Project Owners’ Learning in Crowdfunding / with Xin LI, Prepared for Submission
+2. The Impact of Investor Irrationality on Firm Value and Market Information Efficiency: Evidence from Gamestop Short Squeeze / with Xiurui YANG, Ying ZHAO
+3. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Ke XU, Zhongyun ZHOU
+4. The Impact of Artificial Intelligence Policy on Employment: Evidence from China / with Jiafu WANG
+5. Personalized Customer Engagement under Tie Decay: A Deep Reinforcement Learning Approach / with Xin LI, Xin XU
+6. The Impact of Consensus Mechanism Transition on the Non-fungible Token Trading Networks / with Weihong
+MA, J Leon ZHAO
 
 
 # Grants

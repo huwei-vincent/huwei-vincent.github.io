@@ -8,11 +8,9 @@ author_profile: true
 #   - /about.html
 ---
 
-Welcome to my personal homepage! I am a **Wei HU** and you can call me **Vincent**. 
+Hi! I am a **Wei HU** and you can call me **Vincent**. 
 
-I am a Distinguished Research Fellow at [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/p/#/), where I specialize in the dynamic fields of Fintech, Crowdfunding, Mobile Marketing, Blockchain, and Social Media. My methodological approach is rooted in Applied Econometrics and advanced Data Mining techniques, including Natural Language Processing, Machine Learning, and Social Network Analysis. 
-
-Guided by a commitment to produce research that is both intellectually stimulating and socially valuable, I strive to bridge the gap between academic theory and real-world applications.
+I am a Distinguished Research Fellow at [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/p/#/), where I specialize in the dynamic fields of Fintech, including crowdfunding, innovation management, intelligent marketing, non-fungible tokens, and social media. My methodological approach is rooted in applied econometrics supported by advanced data mining techniques, including natural language processing, machine learning/deep learning, and social network analysis. 
 
 # Bio
 
@@ -41,7 +39,7 @@ Guided by a commitment to produce research that is both intellectually stimulati
 - Applied Econometrics;
 - Data Mining
   - Natural Language Processing;
-  - Machine Learning;
+  - Machine Learning/Deep Learning;
   - Social Network Analysis;
 
 
