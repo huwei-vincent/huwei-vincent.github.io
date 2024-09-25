@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 >求之有道，得之有命，是求无益于得也，求在外者也。
->--《孟子·尽心章句上·第三节》
+> --《孟子·尽心上·第三节》
 
 我是来自[同济大学](https://www.tongji.edu.cn/)[经济与管理学院](https://sem.tongji.edu.cn/semch/)的特聘研究员。
 
