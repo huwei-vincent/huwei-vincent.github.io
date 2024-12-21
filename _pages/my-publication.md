@@ -16,7 +16,7 @@ Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser
 and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider”. 2024; China
 Association for Information Systems Annual Meeting 2024 ([CNAIS2024](https://tjhongcheng.com/cnais2024/113.html#link1))
 1. Jiafu WANG; **Wei HU (^)** / “The Impact of Artificial Intelligence Policy on Employment: Evidence from
-China”. 2024; The 24th International Conference on Electronic Business ([ICEB2024](https://fbm.uic.edu.cn/iceb/))
+China”. 2024; The 24th International Conference on Electronic Business ([ICEB2024](https://fbm.uic.edu.cn/iceb/)) ([Link](https://aisel.aisnet.org/iceb2024/31/))
 1. Xiurui YANG; **Wei HU (^)** / “The Impact of Investor Irrationality on Firm Value and Market Information
 Efficiency: Evidence from Gamestop Short Squeeze”. 2024; The 9th International Conference on Smart
 Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html))
