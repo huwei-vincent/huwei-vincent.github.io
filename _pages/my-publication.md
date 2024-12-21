@@ -9,7 +9,7 @@ author_profile: true
 
 # Conference 
 
-1. Xiurui YANG; **Wei HU (^)** / “The Impact of Investor Irrationality on Firm Value and Market Information
+1. Xiurui YANG; **Wei HU ($\ast$)** / “The Impact of Investor Irrationality on Firm Value and Market Information
 Efficiency: Evidence from Gamestop Short Squeeze”. 2024; Conference on Information Systems and
 Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser=0)) 
 1. Ke XU; **Wei HU (^)**; Zhongyun ZHOU / “The Impact of Reward Distribution Policies on User Engagement
