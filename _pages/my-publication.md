@@ -27,7 +27,7 @@ Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html))
 5. **Wei HU**; J Leon ZHAO / The Impact of Textual Online Harassment on the Performance of Projects in Crowdfunding. 2019; Pacific Asia Conference on Information Systems, [PACIS 2019](https://aisel.aisnet.org/pacis2019/) ([Link](https://aisel.aisnet.org/pacis2019/156/))
 6. **Wei HU**; J Leon ZHAO / Portfolio Optimization using Investor Sentiment. 2018; International Conference on Smart Finance, [ICSF2018](http://epic.is.cityu.edu.hk/ICSF18/)
 
-$^{\ast}$ Corresponding author
+$^{\ast}$ Corresponding author; $^{\dagger}$ Equal contribution;
 
 ---
 
