@@ -33,13 +33,14 @@ Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html))
 
 # Working Papers
 
-1. Transitional Bias of Project Owners’ Learning in Crowdfunding / with Xin LI, Prepared for Submission
-2. The Impact of Investor Irrationality on Firm Value and Market Information Efficiency: Evidence from Gamestop Short Squeeze / with Xiurui YANG, Ying ZHAO
-3. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Ke XU, Zhongyun ZHOU
-4. The Impact of Artificial Intelligence Policy on Employment: Evidence from China / with Jiafu WANG
-5. Personalized Customer Engagement under Tie Decay: A Deep Reinforcement Learning Approach / with Xin LI, Xin XU
-6. The Impact of Consensus Mechanism Transition on the Non-fungible Token Trading Networks / with Weihong
-MA, J Leon ZHAO
+1. Time-varying Effects of Project Updates on Crowdfunding Success: A Dual-process Backer Engagement Perspective / with Xin LI, J. Leon ZHAO ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150))
+2. Innovation Novelty and Firm Value: Similarity vs. Predictability of Patent Content / with Xin LI
+3. Personalized Customer Engagement under Tie Decay: A Deep Reinforcement Learning Approach / with Xin LI, Xin XU
+4. Transitional Bias of Project Owners’ Learning in Crowdfunding / with Xin LI
+5. The Impact of Investor Irrationality on Firm Value and Market Information Efficiency: Evidence from Gamestop Short Squeeze / with Xiurui YANG, Ying ZHAO
+6. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Ke XU, Zhongyun ZHOU
+7. The Impact of Artificial Intelligence Policy on Employment: Evidence from China / with Jiafu WANG, J. Leon ZHAO
+8. The Impact of Consensus Mechanism Transition on the Non-fungible Token Inequality / with Weichen LI, Zhongyun ZHOU, J Leon ZHAO
 
 
 # Grants
