@@ -28,7 +28,7 @@ My primary research program lies at the intersection of **Financial Technology (
   &nbsp;&nbsp;&nbsp;&nbsp;• [Prof. Xin LI](https://www.polyu.edu.hk/mm/people/academic-staff/prof-xin-li/?sc_lang=en), Hong Kong Polytechnic University  
   &nbsp;&nbsp;&nbsp;&nbsp;• [Prof. J. Leon ZHAO](https://myweb.cuhk.edu.cn/leonzhao), Chinese University of Hong Kong, Shenzhen  
 - **2016.07:** M.S. in Mathematical Finance and Actuarial Science, [Department of Mathematics](https://www.cityu.edu.hk/ma/), City University of Hong Kong, Hong Kong SAR <br>*(with Distinction)*
-- **2015.07:** B.S. in Applied Physics, [School of Physics Science and Engineering](https://physics.tongji.edu.cn/En), [Tongji University](https://en.tongji.edu.cn/p/#/), Shanghai, China <br>*(with Distinction)*
+- **2015.07:** B.S. in Applied Physics, [School of Physics Science and Engineering](https://physics.tongji.edu.cn/#), [Tongji University](https://en.tongji.edu.cn/p/#/), Shanghai, China <br>*(with Distinction)*
 
 # Research Interests
 
