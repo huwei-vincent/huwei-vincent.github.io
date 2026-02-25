@@ -16,11 +16,10 @@ author_profile: true
 # Working Papers
 
 3. Personalized Customer Engagement under Changing Attention: A Signal Feedback Reinforcement Learning Approach / with Zhengkun WANG, Jiayin ZHANG, Xin LI, Sean Xin XU, Shuchang LIU, Lantao HU
-6. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Ke XU, Zhongyun ZHOU
+6. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Zhongyun ZHOU, Ke XU
 6. Rational Decision Support in Irrational Markets: Human-Machine Divergence and Contraction-augmented Collaboration in the GameStop Short Squeeze / with Ying ZHAO, Xiurui YANG, Ke XU 
 5. More Irrational, More Inefficient: Evidence from the Gamestop Event / with Ying ZHAO, Xiurui YANG, Angela LU
-4. Transitional Bias of Project Owners’ Learning in Crowdfunding / with Xin LI
-7. The Impact of Artificial Intelligence Policy on Employment: Evidence from China / with Jiafu WANG, J. Leon ZHAO
+7. Fostering AI Innovation: The Synergistic Impact of AI-Related Government Policies and Enterprise Strategies / with Jiafu WANG, J. Leon ZHAO
 
 ---
 
