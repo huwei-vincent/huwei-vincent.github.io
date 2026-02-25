@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "HU Wei (胡维)"
   avatar           : "profile.png"
-  bio              : "SEM, Tongji University (同济大学经管)"
+  bio              : "SEM, Tongji University"
   location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=6CJRiM8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6CJRiM8AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "huwei72@tongji.edu.cn"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   researchgate     : "https://www.researchgate.net/profile/Wei-Hu-101"
