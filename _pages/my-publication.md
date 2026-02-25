@@ -23,7 +23,7 @@ author_profile: true
 
 1. Ke XU, **Wei HU$^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
     - International Conference on Information Systems 2025 ([ICIS2025](https://icis2025.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/icis2025/user_behav/user_behav/15/))
-    - China Summer Workshop on Information Management 2025 ([CSWIM2025](https://2025.cswimworkshop.org/)), Best Workshop Paper Nominee
+    - China Summer Workshop on Information Management 2025 ([CSWIM2025](https://2025.cswimworkshop.org/)), **Best Workshop Paper Nominee**
     - China Association for Information Systems Annual Meeting 2024 ([CNAIS2024](https://tjhongcheng.com/cnais2024/113.html#link1))
 2. Jiafu WANG, **Wei HU$^{\ast}$** / “Fostering AI Innovation: The Synergistic Impact of AI-Related Government Policies and Enterprise Strategies”. 
     - The Americas Conference on Information Systems 2025 ([AMCIS2025](https://amcis2025.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/amcis2025/sig_dite/sig_dite/3/))
@@ -32,7 +32,7 @@ author_profile: true
     - Pacific Asia Conference on Information Systems 2024 ([PACIS2024](https://pacis2024.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/18/))
     - 2024 INFORMS Annual Meeting ([INFORMS2024](https://meetings.informs.org/wordpress/seattle2024/))
     - Conference on Information Systems and Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser=0)) 
-    - The 9th International Conference on Smart Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html)), Best Paper in Track
+    - The 9th International Conference on Smart Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html)), **Best Paper in Track**
 1. Jiafu WANG; **Wei HU$^{\ast}$** / “The Impact of Artificial Intelligence Policy on Employment: Evidence from
 China”. 2024; The 24th International Conference on Electronic Business ([ICEB2024](https://fbm.uic.edu.cn/iceb/)) ([Paper Link](https://aisel.aisnet.org/iceb2024/31/))
 2. Yuk Yee CHAN; **Wei HU$^{\ast}$**; Jianming HUANG; Wanyue ZHOU; Xin LI / Innovation Novelty and Firm Value: Deep Learning based Text Understanding. 2023; International Conference on Information Systems, [ICIS 2023](https://icis2023.aisconferences.org/). ([Paper Link](https://aisel.aisnet.org/icis2023/dab_sc/dab_sc/8/))
