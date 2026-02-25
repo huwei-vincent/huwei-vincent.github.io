@@ -11,6 +11,8 @@ author_profile: true
 2. A Predictability-Centric Approach for Measuring Innovation Novelty / with Xin LI, Kevin Zheng ZHOU; Under Review; Draft available upon request 
 3. Boosted by Data Science: Machine Learning Measure-Supported Empirical Studies in UTD-24 Journals (2010-2024) / with Wenjie HUANG, Yidi LIU, Bingqing SONG, Mengfan XUAN, Sijia ZHOU, Xin LI; Under Review; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233143)
 
+---
+
 # Working Papers
 
 3. Personalized Customer Engagement under Changing Attention: A Signal Feedback Reinforcement Learning Approach / with Zhengkun WANG, Jiayin ZHANG, Xin LI, Sean Xin XU, Shuchang LIU, Lantao HU
