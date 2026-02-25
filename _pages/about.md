@@ -8,9 +8,11 @@ author_profile: true
 #   - /about.html
 ---
 
-Hi! I am a **Wei HU** and you can call me **Vincent**. 
+Welcome to my website!
 
-I am a Distinguished Research Fellow at [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/p/#/), where I specialize in the dynamic fields of Fintech, including crowdfunding, innovation management, intelligent marketing, non-fungible tokens, and social media. My methodological approach is rooted in applied econometrics supported by advanced data mining techniques, including natural language processing, machine learning/deep learning, and social network analysis. 
+I am a Distinguished Research Fellow in [School of Economics and Management](https://sem.tongji.edu.cn/semen/) at [Tongji University](https://en.tongji.edu.cn/p/#/). I obtained my Ph.D. from [Department of Information Systems](https://www.cb.cityu.edu.hk/is/), [City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/) and Prof. [J. Leon ZHAO](https://myweb.cuhk.edu.cn/leonzhao).
+
+My research focuses on Fintech, with particular emphasis on crowdfunding, innovation management, intelligent marketing, and financial social media. My work integrates applied econometrics, advanced data mining techniques, natural language processing, machine learning/deep learning, and social network analysis. 
 
 # Bio
 
@@ -24,7 +26,7 @@ I am a Distinguished Research Fellow at [School of Economics and Management](htt
 
 - 2022.10, Ph.D. in Information Systems, [Department of Information Systems](https://www.cb.cityu.edu.hk/is/), [City University of Hong Kong](https://www.cityu.edu.hk/), Hong Kong SAR
   - Advisor: 
-    - Prof. [Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/), City University of Hong Kong
+    - Prof. [Xin LI](https://www.polyu.edu.hk/mm/people/academic-staff/prof-xin-li/?sc_lang=en), Hong Kong Polytechnic University
     - Prof. [J. Leon ZHAO](https://myweb.cuhk.edu.cn/leonzhao), Chinese University of Hong Kong Shenzhen
 - 2016.07, M.S. in Mathematical Finance and Actuarial Science, [Department of Mathematics](https://www.cityu.edu.hk/ma/), City University of Hong Kong, Hong Kong SAR (with Distinction)
 - 2015.07, B.S. in Applied Physics, [School of Physics Science and Engineering](https://physics.tongji.edu.cn/En), [Tongji University](https://en.tongji.edu.cn/p/#/), Shanghai, China (with Distinction)
