@@ -5,10 +5,26 @@ permalink: /my-publication/
 author_profile: true
 ---
 
+# Working Papers
 
+1. The Progressive Effect of Text Complexity in Crowdfunding Project Updates / with Xin LI, J. Leon ZHAO, Kevin Zheng ZHOU ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150))
+2. A Predictability-Centric Approach for Measuring Innovation Novelty / with Xin LI, Kevin Zheng ZHOU
+3. Boosted by Data Science: Machine Learning Measure-Supported Empirical Studies in UTD-24 Journals (2010-2024) / with Wenjie HUANG, Yidi LIU, Bingqing SONG, Mengfan XUAN, Sijia ZHOU, Xin LI ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233143))
+3. Personalized Customer Engagement Under Changing Attention: A Signal Feedback Reinforcement Learning Approach  / with Zhengkun WANG, Jiayin ZHANG, Xin LI, Sean Xin XU, Shuchang LIU, Lantao HU
+6. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Ke XU, Zhongyun ZHOU
+6. Rational Decision Support in Irrational Markets: Human-Machine Divergence and Contraction-augmented Collaboration in the GameStop Short Squeeze / with Ying ZHAO, Xiurui YANG, Ke XU 
+5. More Irrational, More Inefficient: Evidence from the Gamestop Event / with Ying ZHAO, Xiurui YANG, Angela LU
+4. Transitional Bias of Project Owners’ Learning in Crowdfunding / with Xin LI
+7. The Impact of Artificial Intelligence Policy on Employment: Evidence from China / with Jiafu WANG, J. Leon ZHAO
+
+---
 
 # Conference 
 
+1. Ke XU, **Wei HU^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
+    - International Conference on Information Systems 2025 (ICIS2025)
+    - China Summer Workshop on Information Management 2025 (CSWIM2025), Best Workshop Paper Nominee
+    - China Association for Information Systems Annual Meeting 2024 (CNAIS2024)
 1. Xiurui YANG; **Wei HU$^{\ast}$** / “The Impact of Investor Irrationality on Firm Value and Market Information
 Efficiency: Evidence from Gamestop Short Squeeze”. 2024; Conference on Information Systems and
 Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser=0)) 
@@ -30,18 +46,6 @@ Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html))
 $^{\ast}$ Corresponding author; $^{\dagger}$ Equal contribution;
 
 ---
-
-# Working Papers
-
-1. Time-varying Effects of Project Updates on Crowdfunding Success: A Dual-process Backer Engagement Perspective / with Xin LI, J. Leon ZHAO ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150))
-2. Innovation Novelty and Firm Value: Similarity vs. Predictability of Patent Content / with Xin LI
-3. Personalized Customer Engagement under Tie Decay: A Deep Reinforcement Learning Approach / with Xin LI, Xin XU
-4. Transitional Bias of Project Owners’ Learning in Crowdfunding / with Xin LI
-5. The Impact of Investor Irrationality on Firm Value and Market Information Efficiency: Evidence from Gamestop Short Squeeze / with Xiurui YANG, Ying ZHAO
-6. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Ke XU, Zhongyun ZHOU
-7. The Impact of Artificial Intelligence Policy on Employment: Evidence from China / with Jiafu WANG, J. Leon ZHAO
-8. The Impact of Consensus Mechanism Transition on the Non-fungible Token Inequality / with Weichen LI, Zhongyun ZHOU, J Leon ZHAO
-
 
 # Grants
 
