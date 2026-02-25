@@ -1,12 +1,12 @@
 ---
-# permalink: /about-cn/
+permalink: /about-cn/
 permalink: /
 title: ""
 excerpt: "关于我"
 author_profile: true
-redirect_from: 
-  - /about-cn/
-  - /about-cn.html
+# redirect_from: 
+#   - /about-cn/
+#   - /about-cn.html
 ---
 
 >求之有道，得之有命，是求无益于得也，求在外者也。
