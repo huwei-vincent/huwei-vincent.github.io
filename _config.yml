@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HU Wei (胡维)"
+title                    : "HU Wei 胡维"
 title_separator          : "-"
 name                     : &name "HU Wei"
 description              : &description "Personal homepage"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "HU Wei (胡维)"
+  name             : "HU Wei 胡维"
   avatar           : "profile.png"
   bio              : "SEM, Tongji University"
   location         : "Shanghai, China"
