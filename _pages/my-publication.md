@@ -21,11 +21,11 @@ author_profile: true
 
 # Conference Papers
 
-1. Ke XU, **Wei HU^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
+1. Ke XU, **Wei HU$^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
     - International Conference on Information Systems 2025 ([ICIS2025](https://icis2025.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/icis2025/user_behav/user_behav/15/))
     - China Summer Workshop on Information Management 2025 ([CSWIM2025](https://2025.cswimworkshop.org/)), Best Workshop Paper Nominee
     - China Association for Information Systems Annual Meeting 2024 ([CNAIS2024](https://tjhongcheng.com/cnais2024/113.html#link1))
-2. Jiafu WANG, **Wei HU^{\ast}$** / “Fostering AI Innovation: The Synergistic Impact of AI-Related Government Policies and Enterprise Strategies”. 
+2. Jiafu WANG, **Wei HU$^{\ast}$** / “Fostering AI Innovation: The Synergistic Impact of AI-Related Government Policies and Enterprise Strategies”. 
     - The Americas Conference on Information Systems 2025 ([AMCIS2025](https://amcis2025.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/amcis2025/sig_dite/sig_dite/3/))
     - China Summer Workshop on Information Management 2025 ([CSWIM2025](https://2025.cswimworkshop.org/))
 1. Xiurui YANG; **Wei HU$^{\ast}$** / “GME Frenzy on Social Media: The Impact of Short Squeezes on Market Volatility and Predictability”.  
