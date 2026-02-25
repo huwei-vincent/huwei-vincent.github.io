@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-- [English](/files/CV-HU-Wei-2023-English.pdf)
-- [中文](/files/CV-HU-Wei-2023-中文.pdf)
+- [2023 English](/files/CV-HU-Wei-2023-English.pdf)
+- [2023 中文](/files/CV-HU-Wei-2023-中文.pdf)
