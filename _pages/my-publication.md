@@ -10,7 +10,7 @@ author_profile: true
 1. The Progressive Effect of Text Complexity in Crowdfunding Project Updates / with Xin LI, J. Leon ZHAO, Kevin Zheng ZHOU ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150))
 2. A Predictability-Centric Approach for Measuring Innovation Novelty / with Xin LI, Kevin Zheng ZHOU
 3. Boosted by Data Science: Machine Learning Measure-Supported Empirical Studies in UTD-24 Journals (2010-2024) / with Wenjie HUANG, Yidi LIU, Bingqing SONG, Mengfan XUAN, Sijia ZHOU, Xin LI ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233143))
-3. Personalized Customer Engagement Under Changing Attention: A Signal Feedback Reinforcement Learning Approach  / with Zhengkun WANG, Jiayin ZHANG, Xin LI, Sean Xin XU, Shuchang LIU, Lantao HU
+3. Personalized Customer Engagement Under Changing Attention: A Signal Feedback Reinforcement Learning Approach / with Zhengkun WANG, Jiayin ZHANG, Xin LI, Sean Xin XU, Shuchang LIU, Lantao HU
 6. The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider / with Ke XU, Zhongyun ZHOU
 6. Rational Decision Support in Irrational Markets: Human-Machine Divergence and Contraction-augmented Collaboration in the GameStop Short Squeeze / with Ying ZHAO, Xiurui YANG, Ke XU 
 5. More Irrational, More Inefficient: Evidence from the Gamestop Event / with Ying ZHAO, Xiurui YANG, Angela LU
@@ -19,7 +19,7 @@ author_profile: true
 
 ---
 
-# Conference 
+# Conference Papers
 
 1. Ke XU, **Wei HU^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
     - International Conference on Information Systems 2025 (ICIS2025)
