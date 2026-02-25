@@ -24,19 +24,17 @@ author_profile: true
 1. Ke XU, **Wei HU^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
     - International Conference on Information Systems 2025 (ICIS2025)
     - China Summer Workshop on Information Management 2025 (CSWIM2025), Best Workshop Paper Nominee
-    - China Association for Information Systems Annual Meeting 2024 (CNAIS2024)
-1. Xiurui YANG; **Wei HU$^{\ast}$** / “The Impact of Investor Irrationality on Firm Value and Market Information
-Efficiency: Evidence from Gamestop Short Squeeze”. 2024; Conference on Information Systems and
-Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser=0)) 
-1. Ke XU; **Wei HU$^{\ast}$**; Zhongyun ZHOU / “The Impact of Reward Distribution Policies on User Engagement
-and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider”. 2024; China
-Association for Information Systems Annual Meeting 2024 ([CNAIS2024](https://tjhongcheng.com/cnais2024/113.html#link1))
+    - China Association for Information Systems Annual Meeting 2024 ([CNAIS2024](https://tjhongcheng.com/cnais2024/113.html#link1))
+2. Jiafu WANG, Wei HU / “Fostering AI Innovation: The Synergistic Impact of AI-Related Government Policies and Enterprise Strategies”. 
+    - The Americas Conference on Information Systems 2025 (AMCIS2025)
+    - China Summer Workshop on Information Management 2025 (CSWIM2025)
+1. Xiurui YANG; **Wei HU$^{\ast}$** / “The Impact of Investor Irrationality on Firm Value and Market Information Efficiency: Evidence from Gamestop Short Squeeze”.  
+    - 2024 INFORMS Annual Meeting (Informs2024)
+    - Conference on Information Systems and Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser=0)) 
+    - The 9th International Conference on Smart Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html)), Best Paper in Track
+    - Pacific Asia Conference on Information Systems 2024 ([PACIS2024](https://pacis2024.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/18/))
 1. Jiafu WANG; **Wei HU$^{\ast}$** / “The Impact of Artificial Intelligence Policy on Employment: Evidence from
-China”. 2024; The 24th International Conference on Electronic Business ([ICEB2024](https://fbm.uic.edu.cn/iceb/)) ([Link](https://aisel.aisnet.org/iceb2024/31/))
-1. Xiurui YANG; **Wei HU$^{\ast}$** / “The Impact of Investor Irrationality on Firm Value and Market Information
-Efficiency: Evidence from Gamestop Short Squeeze”. 2024; The 9th International Conference on Smart
-Finance 2024 ([ICSF2024](https://www.icsf2024.com/index.html))
-1. Xiurui YANG; **Wei HU$^{\ast}$** / “GME Frenzy on Social Media: The Impact of Short Squeezes on Market Volatility and Predictability”. 2024; Pacific Asia Conference on Information Systems 2024, [PACIS2024](https://pacis2024.aisconferences.org/). ([Link](https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/18/))
+China”. 2024; The 24th International Conference on Electronic Business ([ICEB2024](https://fbm.uic.edu.cn/iceb/)) ([Paper Link](https://aisel.aisnet.org/iceb2024/31/))
 2. Yuk Yee CHAN; **Wei HU$^{\ast}$**; Jianming HUANG; Wanyue ZHOU; Xin LI / Innovation Novelty and Firm Value: Deep Learning based Text Understanding. 2023; International Conference on Information Systems, [ICIS 2023](https://icis2023.aisconferences.org/). ([Link](https://aisel.aisnet.org/icis2023/dab_sc/dab_sc/8/))
 3. **Wei HU**; Weihong MA; J. Leon ZHAO / Digital Disparity: Exploring Inequality in Non-Fungible Token Transactions. 2023; International Conference on Smart Finance, [ICSF2023](https://cbit.cuhk.edu.cn/ICSF/ICSF23/index.html)
 4. Qiang CAO$^{\dagger}$; **Wei HU$^{\dagger}$**; Sijia ZHOU$^{\dagger}$; Bei LUO$^{\dagger}$; Yuxuan YU; Shaoyi Stephen LIAO; J Leon ZHAO; Yiu Keung Raymond LAU / The Role of Media Coverage on Pandemic Containment: Empirical Analysis of the COVID-19 Case. 2020; Pacific Asia Conference on Information Systems, [PACIS 2020](https://aisel.aisnet.org/pacis2020/). ([Link](https://aisel.aisnet.org/pacis2020/162/))
