@@ -13,15 +13,6 @@ author_profile: true
 
 ---
 
-# Working Papers
-
-
-6. "The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider" / with Zhongyun ZHOU, Ke XU
-6. "Rational Decision Support in Irrational Markets: Human-Machine Divergence and Contraction-augmented Collaboration in the GameStop Short Squeeze" / with Ying ZHAO, Xiurui YANG, Ke XU 
-5. "More Irrational, More Inefficient: Evidence from the Gamestop Event" / with Ying ZHAO, Xiurui YANG, Angela LU
-
----
-
 # Conference Papers
 
 1. Ke XU, **Wei HU$^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
@@ -45,6 +36,15 @@ China”. 2024; The 24th International Conference on Electronic Business ([ICEB2
 6. **Wei HU**; J Leon ZHAO / Portfolio Optimization using Investor Sentiment. 2018; International Conference on Smart Finance, [ICSF2018](https://cbit.cuhk.edu.cn/sources/ICSF/ICSF18/index.html)
 
 $^{\ast}$ Corresponding author; $^{\dagger}$ Equal contribution;
+
+---
+
+# Working Papers
+
+
+6. "The Impact of Reward Distribution Policies on User Engagement and Service Consumption: A Natural Experiment at a Cloud Computing Service Provider" / with Zhongyun ZHOU, Ke XU
+6. "Rational Decision Support in Irrational Markets: Human-Machine Divergence and Contraction-augmented Collaboration in the GameStop Short Squeeze" / with Ying ZHAO, Xiurui YANG, Ke XU 
+5. "More Irrational, More Inefficient: Evidence from the Gamestop Event" / with Ying ZHAO, Xiurui YANG, Angela LU
 
 ---
 
