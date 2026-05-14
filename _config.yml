@@ -80,13 +80,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-H1VKB868QJ
 
 
 # Site Author
 author:
   name             : "HU Wei 胡维"
-  avatar           : "profile.png"
+  avatar           : "profile.webp"
   bio              : "SEM, Tongji University"
   location         : "Shanghai, China"
   employer         :

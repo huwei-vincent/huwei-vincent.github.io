@@ -152,6 +152,18 @@
   button {
     margin-bottom: 0;
 
+    &.btn--inverse {
+      background-color: $primary-color;
+      color: #fff !important;
+      border-color: $primary-color !important;
+      box-shadow: $box-shadow;
+
+      &:hover {
+        background-color: mix(#000, $primary-color, 20%);
+        border-color: mix(#000, $primary-color, 20%) !important;
+      }
+    }
+
     @include breakpoint($large) {
       display: none;
     }

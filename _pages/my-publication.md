@@ -6,7 +6,7 @@ author_profile: true
 math: true
 ---
 
-# Prepints
+# Preprints
 
 1. "The Progressive Effect of Text Complexity in Crowdfunding Project Updates" / with Xin LI, J. Leon ZHAO, Kevin Zheng ZHOU, Under Review, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150)
 2. "A Predictability-Centric Approach for Measuring Innovation Novelty" / with Xin LI, Kevin Zheng ZHOU, Under Review, Draft available upon request 
@@ -16,6 +16,8 @@ math: true
 
 # Conference Papers
 
+### 2025
+
 1. Ke XU, **Wei HU$^{\ast}$**, Zhongyun ZHOU / “Claiming vs. Automatic Rewards: Impact of Incentive Mechanism on Engagement and Consumption in Cloud Computing”.
     - International Conference on Information Systems 2025 ([ICIS2025](https://icis2025.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/icis2025/user_behav/user_behav/15/))
     - China Summer Workshop on Information Management 2025 ([CSWIM2025](https://2025.cswimworkshop.org/)), **Best Workshop Paper Nominee**
@@ -23,18 +25,44 @@ math: true
 2. Jiafu WANG, **Wei HU$^{\ast}$** / “Fostering AI Innovation: The Synergistic Impact of AI-Related Government Policies and Enterprise Strategies”.
     - The Americas Conference on Information Systems 2025 ([AMCIS2025](https://amcis2025.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/amcis2025/sig_dite/sig_dite/3/))
     - China Summer Workshop on Information Management 2025 ([CSWIM2025](https://2025.cswimworkshop.org/))
-3. Xiurui YANG; **Wei HU$^{\ast}$** / “GME Frenzy on Social Media: The Impact of Short Squeezes on Market Volatility and Predictability”.
+{: .publication-list}
+
+### 2024
+
+1. Xiurui YANG; **Wei HU$^{\ast}$** / “GME Frenzy on Social Media: The Impact of Short Squeezes on Market Volatility and Predictability”.
     - Pacific Asia Conference on Information Systems 2024 ([PACIS2024](https://pacis2024.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/pacis2024/track17_socmedia/track17_socmedia/18/))
     - The 9th International Conference on Smart Finance 2024 ([ICSF2024](https://cbit.cuhk.edu.cn/sources/ICSF/ICSF24/index.html)), **Best Paper in Track**
     - 2024 INFORMS Annual Meeting ([INFORMS2024](https://meetings.informs.org/wordpress/seattle2024/))
     - Conference on Information Systems and Technology 2024 ([CIST2024](https://sites.google.com/view/cist2024/home?authuser=0))
-4. Jiafu WANG; **Wei HU$^{\ast}$** / “The Impact of Artificial Intelligence Policy on Employment: Evidence from
-China”. 2024; The 24th International Conference on Electronic Business ([ICEB2024](https://fbm.uic.edu.cn/iceb/)) ([Paper Link](https://aisel.aisnet.org/iceb2024/31/))
-5. Yuk Yee CHAN; **Wei HU$^{\ast}$**; Jianming HUANG; Wanyue ZHOU; Xin LI / Innovation Novelty and Firm Value: Deep Learning based Text Understanding. 2023; International Conference on Information Systems, [ICIS 2023](https://icis2023.aisconferences.org/). ([Paper Link](https://aisel.aisnet.org/icis2023/dab_sc/dab_sc/8/))
-6. **Wei HU**; Weihong MA; J. Leon ZHAO / Digital Disparity: Exploring Inequality in Non-Fungible Token Transactions. 2023; International Conference on Smart Finance, [ICSF2023](https://cbit.cuhk.edu.cn/sources/ICSF/ICSF23/index.html)
-7. Qiang CAO$^{\dagger}$; **Wei HU$^{\dagger}$**; Sijia ZHOU$^{\dagger}$; Bei LUO$^{\dagger}$; Yuxuan YU; Shaoyi Stephen LIAO; J Leon ZHAO; Yiu Keung Raymond LAU / The Role of Media Coverage on Pandemic Containment: Empirical Analysis of the COVID-19 Case. 2020; Pacific Asia Conference on Information Systems, [PACIS 2020](https://aisel.aisnet.org/pacis2020/). ([Paper Link](https://aisel.aisnet.org/pacis2020/162/))
-8. **Wei HU**; J Leon ZHAO / The Impact of Textual Online Harassment on the Performance of Projects in Crowdfunding. 2019; Pacific Asia Conference on Information Systems, [PACIS 2019](https://aisel.aisnet.org/pacis2019/) ([Paper Link](https://aisel.aisnet.org/pacis2019/156/))
-9. **Wei HU**; J Leon ZHAO / Portfolio Optimization using Investor Sentiment. 2018; International Conference on Smart Finance, [ICSF2018](https://cbit.cuhk.edu.cn/sources/ICSF/ICSF18/index.html)
+2. Jiafu WANG; **Wei HU$^{\ast}$** / “The Impact of Artificial Intelligence Policy on Employment: Evidence from China”.
+    - The 24th International Conference on Electronic Business 2024 ([ICEB2024](https://fbm.uic.edu.cn/iceb/)) ([Paper Link](https://aisel.aisnet.org/iceb2024/31/))
+{: .publication-list}
+
+### 2023
+
+1. Yuk Yee CHAN; **Wei HU$^{\ast}$**; Jianming HUANG; Wanyue ZHOU; Xin LI / “Innovation Novelty and Firm Value: Deep Learning based Text Understanding”.
+    - International Conference on Information Systems 2023 ([ICIS2023](https://icis2023.aisconferences.org/)) ([Paper Link](https://aisel.aisnet.org/icis2023/dab_sc/dab_sc/8/))
+2. **Wei HU**; Weihong MA; J. Leon ZHAO / “Digital Disparity: Exploring Inequality in Non-Fungible Token Transactions”.
+    - International Conference on Smart Finance 2023 ([ICSF2023](https://cbit.cuhk.edu.cn/sources/ICSF/ICSF23/index.html))
+{: .publication-list}
+
+### 2020
+
+1. Qiang CAO$^{\dagger}$; **Wei HU$^{\dagger}$**; Sijia ZHOU$^{\dagger}$; Bei LUO$^{\dagger}$; Yuxuan YU; Shaoyi Stephen LIAO; J Leon ZHAO; Yiu Keung Raymond LAU / “The Role of Media Coverage on Pandemic Containment: Empirical Analysis of the COVID-19 Case”.
+    - Pacific Asia Conference on Information Systems 2020 ([PACIS2020](https://aisel.aisnet.org/pacis2020/)) ([Paper Link](https://aisel.aisnet.org/pacis2020/162/))
+{: .publication-list}
+
+### 2019
+
+1. **Wei HU**; J Leon ZHAO / “The Impact of Textual Online Harassment on the Performance of Projects in Crowdfunding”.
+    - Pacific Asia Conference on Information Systems 2019 ([PACIS2019](https://aisel.aisnet.org/pacis2019/)) ([Paper Link](https://aisel.aisnet.org/pacis2019/156/))
+{: .publication-list}
+
+### 2018
+
+1. **Wei HU**; J Leon ZHAO / “Portfolio Optimization using Investor Sentiment”.
+    - International Conference on Smart Finance 2018 ([ICSF2018](https://cbit.cuhk.edu.cn/sources/ICSF/ICSF18/index.html))
+{: .publication-list}
 
 $^{\ast}$ Corresponding author; $^{\dagger}$ Equal contribution;
 
