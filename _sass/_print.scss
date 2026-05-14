@@ -55,19 +55,4 @@
     margin: 0;
     padding: 0;
   }
-
-  /* Hide theme toggle in print */
-  .theme-toggle {
-    display: none;
-  }
-
-  /* Force light mode when printing */
-  body.dark-mode {
-    background-color: #fff;
-    color: #000;
-  }
-
-  body.dark-mode a {
-    color: #000;
-  }
 }
