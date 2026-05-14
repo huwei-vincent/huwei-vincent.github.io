@@ -1,13 +1,15 @@
 ---
 permalink: /about-cn/
 title: ""
-excerpt: "关于我"
+excerpt: "胡维 — 同济大学经济与管理学院特聘研究员，研究方向涵盖金融科技、众筹、创新管理及 AI 驱动的实证方法。"
 author_profile: true
 lang: "zh-CN"
 # redirect_from: 
 #   - /about-cn/
 #   - /about-cn.html
 ---
+
+<p style="text-align: right; margin-bottom: 0;"><a href="/">English</a></p>
 
 >求之有道，得之有命，是求无益于得也，求在外者也。
 > --《孟子·尽心上·第三节》

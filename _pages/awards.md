@@ -1,12 +1,8 @@
 ---
 permalink: /awards/
 title: ""
-# excerpt: "This is a page not in th emain menu"
+excerpt: "Honors and awards received by HU Wei, including Ph.D. Teaching Excellence Award and Outstanding Graduates in Shanghai."
 author_profile: true
-# redirect_from: 
-#   - "/awards/"
-#   # - "/awards.html"
-  
 ---
 
 # Honors and Awards

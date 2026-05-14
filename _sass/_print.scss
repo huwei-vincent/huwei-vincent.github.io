@@ -2,17 +2,57 @@
    PRINT STYLES
    ========================================================================== */
 
-/*
-   Hide the following elements on print
-   ========================================================================== */
-
 @media print {
   .masthead,
   .toc,
   .page__share,
   .page__related,
   .ads,
-  .page__footer {
+  .page__footer,
+  .author__urls-wrapper,
+  .sidebar {
     display: none;
+  }
+
+  body {
+    font-size: 12pt;
+    color: #000;
+    background: #fff;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #555;
+  }
+
+  a[href^="#"]::after,
+  a[href^="javascript:"]::after {
+    content: "";
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .page {
+    width: 100%;
+    margin: 0;
+    padding: 0;
   }
 }

@@ -1,12 +1,8 @@
 ---
 permalink: /services/
 title: ""
-# excerpt: "This is a page not in th emain menu"
+excerpt: "Academic services by HU Wei — conference reviewer for ICIS, PACIS, CIST; journal reviewer for ISR, JECR, and more."
 author_profile: true
-# redirect_from: 
-#   - "/services/"
-#   # - "/services.html"
-
 ---
 
 # Conference Review

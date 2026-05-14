@@ -1,19 +1,21 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "HU Wei — Distinguished Research Fellow at Tongji University. Research in FinTech, crowdfunding, innovation management, and AI-driven empirical methods."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+<p style="text-align: right; margin-bottom: 0;"><a href="/about-cn/">中文版</a></p>
+
 Welcome to my personal website!
 
 {: .notice--info}
 > **FinTech & Information Systems Researcher** — Distinguished Research Fellow at Tongji University, exploring crowdfunding, innovation management, and AI-driven empirical methods.
 
-I am a *Distinguished Research Fellow* in the [School of Economics and Management](https://sem.tongji.edu.cn/semen/) at [Tongji University](https://en.tongji.edu.cn/p/#/). I earned my Ph.D. from [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/), where I was supervised by [Prof. Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/) and [Prof. J. Leon ZHAO](https://myweb.cuhk.edu.cn/leonzhao).
+I am a *Distinguished Research Fellow* in the [School of Economics and Management](https://sem.tongji.edu.cn/semen/) at [Tongji University](https://en.tongji.edu.cn/). I earned my Ph.D. from [Department of Information Systems](https://www.cb.cityu.edu.hk/is/) at [City University of Hong Kong](https://www.cityu.edu.hk/), where I was supervised by [Prof. Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/) and [Prof. J. Leon ZHAO](https://myweb.cuhk.edu.cn/leonzhao).
 
 My primary research interest lies at the intersection of **Financial Technology (FinTech)** and **Information Systems (IS)**. I investigate several key domains, including crowdfunding, innovation management, intelligent marketing, and financial social media. To address these complex phenomena, I employ a multi-disciplinary methodological framework. My research integrates applied econometrics for causal inference with advanced computational techniques, including data mining, natural language processing (NLP), machine learning (ML), deep learning (DL), and social network analysis (SNA).
 
@@ -22,7 +24,7 @@ My primary research interest lies at the intersection of **Financial Technology 
 # Bio
 
 - **Distinguished Research Fellow**
-- [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/p/#/)
+- [School of Economics and Management](https://sem.tongji.edu.cn/semen/), [Tongji University](https://en.tongji.edu.cn/)
 - [Personal homepage at Tongji SEM](https://sem.tongji.edu.cn/semen/23649.html)
 
 ---
@@ -34,7 +36,7 @@ My primary research interest lies at the intersection of **Financial Technology 
     - [Prof. Xin LI](https://www.polyu.edu.hk/mm/people/academic-staff/prof-xin-li/?sc_lang=en), Hong Kong Polytechnic University
     - [Prof. J. Leon ZHAO](https://myweb.cuhk.edu.cn/leonzhao), Chinese University of Hong Kong, Shenzhen
 - **2016.07:** M.S. in Mathematical Finance and Actuarial Science, [Department of Mathematics](https://www.cityu.edu.hk/ma/), City University of Hong Kong, Hong Kong SAR *(with Distinction)*
-- **2015.07:** B.S. in Applied Physics, [School of Physics Science and Engineering](https://physics.tongji.edu.cn/#), [Tongji University](https://en.tongji.edu.cn/p/#/), Shanghai, China *(with Distinction)*
+- **2015.07:** B.S. in Applied Physics, [School of Physics Science and Engineering](https://physics.tongji.edu.cn/#), [Tongji University](https://en.tongji.edu.cn/), Shanghai, China *(with Distinction)*
 
 ---
 

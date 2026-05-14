@@ -4,6 +4,7 @@ layout: archive
 permalink: /my-publication/
 author_profile: true
 math: true
+excerpt: "Publications by HU Wei — preprints, conference papers (ICIS, PACIS, AMCIS), working papers, and research grants in FinTech and information systems."
 ---
 
 # Preprints

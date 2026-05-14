@@ -1,12 +1,8 @@
 ---
 permalink: /experiences/
 title: ""
-# excerpt: "This is a page not in th emain menu"
+excerpt: "Academic and research experiences of HU Wei — Distinguished Research Fellow at Tongji University, former research positions at CityU and CUHK-Shenzhen."
 author_profile: true
-# redirect_from: 
-#   - "/experiences/"
-#   # - "/experiences.html"
-
 ---
 
 # Academic Experiences
