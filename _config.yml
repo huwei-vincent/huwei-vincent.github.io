@@ -150,6 +150,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - TODO.md
 keep_files:
   - .git
   - .svn

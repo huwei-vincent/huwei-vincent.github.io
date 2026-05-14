@@ -9,7 +9,6 @@ _site/
 # Bundler
 .bundle/
 /vendor/
-Gemfile.lock
 
 # Node
 node_modules/
