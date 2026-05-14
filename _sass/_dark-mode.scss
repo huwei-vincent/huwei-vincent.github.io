@@ -359,68 +359,8 @@ body.dark-mode {
     width: 20px;
     height: 20px;
   }
-}
 
-
-/* ==========================================================================
-   RESPONSIVE: TIMELINE
-   ========================================================================== */
-
-@media screen and (max-width: 600px) {
-  .timeline {
-    padding-left: 1.5em;
-  }
-
-  .timeline-item {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    gap: 0.2em;
-
-    &::before {
-      left: -1.5em;
-      -webkit-transform: translateX(-4px);
-          -ms-transform: translateX(-4px);
-              transform: translateX(-4px);
-    }
-  }
-
-  .timeline-year {
-    min-width: auto;
-    font-size: $type-size-7;
-  }
-
-  .timeline-content {
-    font-size: $type-size-6;
-  }
-}
-
-
-/* ==========================================================================
-   RESPONSIVE: CV BUTTONS
-   ========================================================================== */
-
-@media screen and (max-width: 400px) {
-  .cv-download {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-
-    .btn--primary {
-      text-align: center;
-    }
-  }
-}
-
-
-/* ==========================================================================
-   RESPONSIVE: THEME TOGGLE ON MOBILE
-   ========================================================================== */
-
-@media screen and (max-width: 768px) {
-  .theme-toggle {
+  @include breakpoint(max-width $medium) {
     right: 0.5em;
     top: 0.5em;
     -webkit-transform: none;
@@ -446,41 +386,5 @@ body.dark-mode {
 
   &:last-child {
     margin-right: 0;
-  }
-}
-
-/* Use @supports to only apply gap where supported, remove fallback margins */
-@supports (gap: 1em) {
-  .cv-download > .btn--primary {
-    margin-right: 0;
-    margin-bottom: 0;
-  }
-}
-
-
-/* ==========================================================================
-   PRINT: FORCE LIGHT MODE
-   ========================================================================== */
-
-@media print {
-  body.dark-mode {
-    background-color: #fff !important;
-    color: #000 !important;
-
-    *, *::before, *::after {
-      background-color: transparent !important;
-      color: #000 !important;
-      box-shadow: none !important;
-      border-color: #ccc !important;
-    }
-
-    a {
-      color: #000 !important;
-      text-decoration: underline !important;
-    }
-  }
-
-  .theme-toggle {
-    display: none !important;
   }
 }
