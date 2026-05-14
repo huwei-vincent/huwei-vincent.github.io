@@ -60,6 +60,14 @@
 - [x] **#45** 启用面包屑导航（`_config.yml`）
   - `breadcrumbs: false` → `breadcrumbs: true`
 
+- [x] **#46** 前端 UI 深度优化（多个 SCSS 文件）
+  - 排版：body `line-height` 1.5→1.6，标题 `margin-top` 2em→1.5em，h5/h6 字号区分（`_base.scss`）
+  - 颜色：链接色 `#2b6cb0`→`#1a5490` 提升对比度，footer 文字从近白改为 `$gray`（`_variables.scss`、`_footer.scss`）
+  - 间距：主容器 `margin-top` 2em→1.5em，masthead padding 增至 1.2em（`_page.scss`、`_masthead.scss`）
+  - 视觉：头像添加 `box-shadow`，`border-radius` 4px→6px，表格行 hover 高亮（`_sidebar.scss`、`_variables.scss`、`_tables.scss`）
+  - 导航：面包屑添加浅灰背景和底部边框（`_navigation.scss`）
+  - 编码：`main.scss` 添加 `@charset "utf-8"` 防止 SCSS 编译错误
+
 ## 待完成（需人工操作）
 
 - [x] **#25** 评估 Blog 外链去留（`_data/navigation.yml`）
@@ -68,11 +76,11 @@
 - [x] **#27** 配置搜索引擎验证（`_config.yml`）
   - 已填入 Google Search Console 验证码
 
-- [ ] **#29** 优化宽屏阅读体验（`_sass/_variables.scss`）
-  - 右侧边栏宽度全部设为 `0px`；内容已有 `max-width: 1280px` 限制
-  - 如需进一步优化可恢复适当侧边栏宽度
+- [x] **#29** 优化宽屏阅读体验（`_sass/_variables.scss`）
+  - 右侧边栏宽度从 `0px` 恢复为 `100px / 150px / 200px`（narrow / normal / wide）
+  - 为宽屏增加右侧留白，缩短文本行宽，提升阅读舒适度
 
-- [ ] **#35** 更新 CV 文件（`files/`）
+- [ ] **#35** 更新 CV 文件（`files/`）— **暂停，待后续处理**
   - CV PDF 日期为 2023 年，但简历已显示 2024.07 至今的特聘研究员职位
   - 需用户提供更新后的 PDF 文件
 
