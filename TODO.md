@@ -62,13 +62,11 @@
 
 ## 待完成（需人工操作）
 
-- [ ] **#25** 评估 Blog 外链去留（`_data/navigation.yml`）
-  - 当前链接指向 `https://vincent27hugh.github.io/`（另一个仓库）
-  - 若不再维护，建议移除导航项；若仍活跃，保持现状
+- [x] **#25** 评估 Blog 外链去留（`_data/navigation.yml`）
+  - 保留现有外链 `https://vincent27hugh.github.io/`
 
-- [ ] **#27** 配置搜索引擎验证（`_config.yml`）
-  - `google_site_verification` 当前为空，影响 Google 索引
-  - 需在 Google Search Console 中获取验证码并填入
+- [x] **#27** 配置搜索引擎验证（`_config.yml`）
+  - 已填入 Google Search Console 验证码
 
 - [ ] **#29** 优化宽屏阅读体验（`_sass/_variables.scss`）
   - 右侧边栏宽度全部设为 `0px`；内容已有 `max-width: 1280px` 限制
