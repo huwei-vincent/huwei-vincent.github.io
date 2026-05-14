@@ -12,6 +12,7 @@ excerpt: "Publications by HU Wei — preprints, conference papers (ICIS, PACIS, 
 1. "The Progressive Effect of Text Complexity in Crowdfunding Project Updates" / with Xin LI, J. Leon ZHAO, Kevin Zheng ZHOU, Under Review, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150)
 2. "A Predictability-Centric Approach for Measuring Innovation Novelty" / with Xin LI, Kevin Zheng ZHOU, Under Review, Draft available upon request 
 3. "Boosted by Data Science: Machine Learning Measure-Supported Empirical Studies in UTD-24 Journals (2010-2024)" / with Wenjie HUANG, Yidi LIU, Bingqing SONG, Mengfan XUAN, Sijia ZHOU, Xin LI, Under Review, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233143)
+
 ---
 
 # Conference Papers
