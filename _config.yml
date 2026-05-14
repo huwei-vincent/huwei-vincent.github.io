@@ -62,13 +62,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person  # Person or Organization (defaults to Person)
+  name                   : "HU Wei"  # If the user or organization name differs from the site's name
+  links:  # An array of links to social media profiles
+    - "https://github.com/huwei-vincent"
+    - "https://www.linkedin.com/in/wei-hu-b07432105"
+    - "https://scholar.google.com/citations?user=6CJRiM8AAAAJ"
+    - "https://www.researchgate.net/profile/Wei-Hu-101"
+    - "https://orcid.org/0000-0002-4252-9805"
 
 
 # Analytics
@@ -98,7 +103,6 @@ author:
   facebook         :
   foursquare       :
   github           : "huwei-vincent"
-  google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -111,7 +115,6 @@ author:
   steam            :
   tumblr           :
   # twitter          : "replacethistwitterhandle"
-  vine             :
   weibo            :
   xing             :
   youtube          :
