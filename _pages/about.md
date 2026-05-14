@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: right; margin-bottom: 0;"><a href="/about-cn/">中文版</a></p>
+<p style="text-align: right; margin-bottom: 0.5em;">
+  <a href="/about-cn/" style="display: inline-block; padding: 0.3em 0.9em; font-size: 0.85em; color: #1a365d; border: 1.5px solid #1a365d; border-radius: 1em; text-decoration: none; transition: all 0.2s;">中文版</a>
+</p>
 
 Welcome to my personal website!
 

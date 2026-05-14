@@ -9,7 +9,9 @@ lang: "zh-CN"
 #   - /about-cn.html
 ---
 
-<p style="text-align: right; margin-bottom: 0;"><a href="/">English</a></p>
+<p style="text-align: right; margin-bottom: 0.5em;">
+  <a href="/" style="display: inline-block; padding: 0.3em 0.9em; font-size: 0.85em; color: #1a365d; border: 1.5px solid #1a365d; border-radius: 1em; text-decoration: none; transition: all 0.2s;">English</a>
+</p>
 
 >求之有道，得之有命，是求无益于得也，求在外者也。
 > --《孟子·尽心上·第三节》
