@@ -71,9 +71,7 @@
 - [x] **#47** 导航栏排序优化（`_data/navigation.yml`）
   - Research → Awards → Teaching → Experiences → Services → CV
 
-- [x] **#48** 首页快速导航卡片（`about.md`、`about-cn.md`、`_sass/_page.scss`）
-  - 在简介下方添加 4 个卡片式快捷链接（Research / Teaching / CV / Awards）
-  - 中文版同步添加对应中文标签
+- [x] **#48** ~~首页快速导航卡片~~ — **已移除**（与导航栏功能重复）
 
 - [x] **#49** Services 页面按会议层级分组（`services.md`）
   - Conference Review 分为 "Premier IS Conferences"（ICIS, PACIS, CIST）和 "Specialized Conferences"
@@ -84,13 +82,27 @@
 - [x] **#51** Experiences 页面时间线布局（`experiences.md`、`_sass/_page.scss`）
   - 使用 `.timeline` 组件，添加年份标记和圆点装饰的垂直时间线
 
-- [x] **#52** 论文摘要可展开/折叠（`my-publication.md`、`_sass/_page.scss`）
-  - Preprints 使用 `<details>/<summary>` 实现可展开摘要
-  - 添加 `.pub-abstract` CSS 样式
+- [x] **#52** ~~论文摘要可展开/折叠~~ — **已移除**（用户决定不添加）
 
 - [x] **#53** CV 页面增强（`cv.md`、`_sass/_page.scss`）
   - 添加 "At a Glance" 简要信息块
   - 下载链接改为主色调按钮样式
+
+- [x] **#54** 深色/浅色主题切换（`_sass/_dark-mode.scss`、`_includes/masthead.html`、`_includes/head/custom.html`、`_includes/footer/custom.html`）
+  - 新增 `_sass/_dark-mode.scss`：完整深色主题变量与样式覆盖
+  - 导航栏添加 SVG 月亮/太阳切换按钮（放在 `nav` 外避免 greedy-nav JS 吞掉）
+  - `localStorage` 持久化用户偏好，自动跟随系统 `prefers-color-scheme`
+  - `head/custom.html` 添加预渲染脚本防止白屏闪烁
+  - 打印时强制浅色模式，隐藏切换按钮
+
+- [x] **#55** 跨平台适配优化（`_sass/_dark-mode.scss`、`_sass/_page.scss`、`_sass/_masthead.scss`）
+  - 切换按钮从 emoji（🌙/☀️）改为 SVG 图标（Feather Icons），跨平台渲染一致
+  - 切换按钮最小触控区域 44×44px（WCAG 标准）
+  - Flexbox 添加 `-webkit-`、`-ms-` 前缀兼容旧浏览器
+  - `gap` 属性添加 `margin` fallback 兼容 Safari < 14.1
+  - 时间线 ≤600px 切换纵向排列，CV 按钮 ≤400px 纵向堆叠
+  - 导航栏 `masthead__inner-wrap` 添加 `position: relative` + 右侧留白避免按钮重叠
+  - 键盘导航 `:focus` 轮廓 + `:focus:not(:focus-visible)` 隐藏鼠标点击轮廓
 
 ## 待完成（需人工操作）
 
@@ -112,25 +124,29 @@
 
 | 文件 | 改动项 |
 |------|--------|
-| `_pages/my-publication.md` | #13, #19, #36, #52 |
+| `_pages/my-publication.md` | #13, #19, #36 |
 | `_data/navigation.yml` | #14, #23, #25, #47 |
 | `_data/authors.yml` | #38 |
-| `_pages/about.md` | #15, #17, #18, #23, #24, #36, #40, #48 |
-| `_pages/about-cn.md` | #15, #17, #18, #24, #36, #48 |
+| `_pages/about.md` | #15, #17, #18, #23, #24, #36, #40 |
+| `_pages/about-cn.md` | #15, #17, #18, #24, #36 |
 | `_pages/awards.md` | #36, #50 |
 | `_pages/experiences.md` | #36, #51 |
 | `_pages/services.md` | #36, #49 |
 | `_pages/cv.md` | #53 |
 | `_pages/teaching.html` | #36 |
 | `_sass/_variables.scss` | #16, #29 |
-| `_sass/_page.scss` | #20, #48, #51, #52, #53 |
+| `_sass/_page.scss` | #20, #51, #53, #55 |
+| `_sass/_dark-mode.scss` | #54, #55 |
 | `_sass/_sidebar.scss` | #21 |
+| `_sass/_masthead.scss` | #46, #55 |
 | `_sass/_print.scss` | #43 |
+| `assets/css/main.scss` | #46, #54 |
 | `images/` (favicon 生成) | #33 |
 | `images/` (模板图片清理) | #22, #38 |
 | `_config.yml` | #22, #26, #27, #28, #45 |
-| `_includes/head/custom.html` | #33, #34 |
-| `_includes/footer/custom.html` | #34 |
+| `_includes/head/custom.html` | #33, #34, #54 |
+| `_includes/footer/custom.html` | #34, #54 |
+| `_includes/masthead.html` | #54, #55 |
 | `_includes/seo.html` | #37 |
 | `_includes/author-profile.html` | #41 |
 | `_includes/archive-single.html` | #42 |
