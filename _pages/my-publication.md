@@ -9,27 +9,9 @@ excerpt: "Publications by HU Wei — preprints, conference papers (ICIS, PACIS, 
 
 # Preprints
 
-<ol class="publication-list">
-<li>
-  <strong>"The Progressive Effect of Text Complexity in Crowdfunding Project Updates"</strong> / with Xin LI, J. Leon ZHAO, Kevin Zheng ZHOU, Under Review, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150">SSRN</a>
-  <details class="pub-abstract"><summary>Abstract</summary>
-  <p>This study examines how the text complexity of project updates influences backer behavior on crowdfunding platforms. Using NLP-based readability measures, we find a progressive effect where moderate complexity increases engagement while excessive complexity deters it.</p>
-  </details>
-</li>
-<li>
-  <strong>"A Predictability-Centric Approach for Measuring Innovation Novelty"</strong> / with Xin LI, Kevin Zheng ZHOU, Under Review, Draft available upon request
-  <details class="pub-abstract"><summary>Abstract</summary>
-  <p>We propose a predictability-centric framework for quantifying innovation novelty using deep learning-based text understanding. By measuring how "surprising" a patent or product is relative to the existing knowledge landscape, we provide a scalable, theory-grounded novelty metric.</p>
-  </details>
-</li>
-<li>
-  <strong>"Boosted by Data Science: Machine Learning Measure-Supported Empirical Studies in UTD-24 Journals (2010-2024)"</strong> / with Wenjie HUANG, Yidi LIU, Bingqing SONG, Mengfan XUAN, Sijia ZHOU, Xin LI, Under Review, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233143">SSRN</a>
-  <details class="pub-abstract"><summary>Abstract</summary>
-  <p>This paper provides a comprehensive review of how machine learning-constructed measures have been adopted in empirical studies published in UTD-24 journals from 2010 to 2024, documenting trends, methodological patterns, and best practices.</p>
-  </details>
-</li>
-</ol>
-
+1. "The Progressive Effect of Text Complexity in Crowdfunding Project Updates" / with Xin LI, J. Leon ZHAO, Kevin Zheng ZHOU, Under Review, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925150)
+2. "A Predictability-Centric Approach for Measuring Innovation Novelty" / with Xin LI, Kevin Zheng ZHOU, Under Review, Draft available upon request 
+3. "Boosted by Data Science: Machine Learning Measure-Supported Empirical Studies in UTD-24 Journals (2010-2024)" / with Wenjie HUANG, Yidi LIU, Bingqing SONG, Mengfan XUAN, Sijia ZHOU, Xin LI, Under Review, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233143)
 ---
 
 # Conference Papers
