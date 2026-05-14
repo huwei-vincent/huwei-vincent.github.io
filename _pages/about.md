@@ -21,6 +21,25 @@ I am a *Distinguished Research Fellow* in the [School of Economics and Managemen
 
 My primary research interest lies at the intersection of **Financial Technology (FinTech)** and **Information Systems (IS)**. I investigate several key domains, including crowdfunding, innovation management, intelligent marketing, and financial social media. To address these complex phenomena, I employ a multi-disciplinary methodological framework. My research integrates applied econometrics for causal inference with advanced computational techniques, including data mining, natural language processing (NLP), machine learning (ML), deep learning (DL), and social network analysis (SNA).
 
+<div class="quick-links">
+  <a href="/my-publication/" class="quick-link-card">
+    <span class="quick-link-icon">📄</span>
+    <span class="quick-link-label">Research</span>
+  </a>
+  <a href="/teaching/" class="quick-link-card">
+    <span class="quick-link-icon">🎓</span>
+    <span class="quick-link-label">Teaching</span>
+  </a>
+  <a href="/cv/" class="quick-link-card">
+    <span class="quick-link-icon">📋</span>
+    <span class="quick-link-label">CV</span>
+  </a>
+  <a href="/awards/" class="quick-link-card">
+    <span class="quick-link-icon">🏆</span>
+    <span class="quick-link-label">Awards</span>
+  </a>
+</div>
+
 ---
 
 # Bio

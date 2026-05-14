@@ -25,6 +25,25 @@ lang: "zh-CN"
 
 我的研究方向主要聚焦于金融科技（FinTech）领域，包括众筹、创新管理、智能营销以及金融社交媒体。在学术研究中，我注重多学科交叉，结合应用计量经济学、数据挖掘与自然语言处理（NLP）、机器学习与深度学习（DL）、社会网络分析（SNA）等方法，深入探索相关议题。
 
+<div class="quick-links">
+  <a href="/my-publication/" class="quick-link-card">
+    <span class="quick-link-icon">📄</span>
+    <span class="quick-link-label">学术成果</span>
+  </a>
+  <a href="/teaching/" class="quick-link-card">
+    <span class="quick-link-icon">🎓</span>
+    <span class="quick-link-label">教学</span>
+  </a>
+  <a href="/cv/" class="quick-link-card">
+    <span class="quick-link-icon">📋</span>
+    <span class="quick-link-label">简历</span>
+  </a>
+  <a href="/awards/" class="quick-link-card">
+    <span class="quick-link-icon">🏆</span>
+    <span class="quick-link-label">荣誉</span>
+  </a>
+</div>
+
 ---
 
 # 简介

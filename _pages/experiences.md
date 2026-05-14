@@ -7,14 +7,59 @@ author_profile: true
 
 # Academic Experiences
 
-- 2024.07-present, Distinguished Research Fellow, School of Economics and Management, Tongji University
-- 2023.03-2024.06, Assistant Research Fellow, School of Economics and Management, Tongji University
-- 2016.08-2017.08, Research Assistant, Department of Economics and Finance, City University of Hong Kong
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-year">2024–Present</div>
+    <div class="timeline-content">
+      <strong>Distinguished Research Fellow</strong><br>
+      School of Economics and Management, Tongji University
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-year">2023–2024</div>
+    <div class="timeline-content">
+      <strong>Assistant Research Fellow</strong><br>
+      School of Economics and Management, Tongji University
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-year">2016–2017</div>
+    <div class="timeline-content">
+      <strong>Research Assistant</strong><br>
+      Department of Economics and Finance, City University of Hong Kong
+    </div>
+  </div>
+</div>
 
 # Research Experiences
 
-- 2022.09-2023.02, Research Assistant (PT), School of Management and Economics, Chinese University of Hong Kong (Shenzhen)
-- 2017.12-2022.09, Research Assistant (PT), Department of Information Systems, City University of Hong Kong
-- 2016.07-2016.08, Research Assistant (PT), Department of Mathematics, City University of Hong Kong
-- 2016.03-2016.07, Research Assistant (PT), Department of Economics and Finance, City University of Hong Kong
-
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-year">2022–2023</div>
+    <div class="timeline-content">
+      <strong>Research Assistant (PT)</strong><br>
+      School of Management and Economics, Chinese University of Hong Kong (Shenzhen)
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-year">2017–2022</div>
+    <div class="timeline-content">
+      <strong>Research Assistant (PT)</strong><br>
+      Department of Information Systems, City University of Hong Kong
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-year">2016</div>
+    <div class="timeline-content">
+      <strong>Research Assistant (PT)</strong><br>
+      Department of Mathematics, City University of Hong Kong
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-year">2016</div>
+    <div class="timeline-content">
+      <strong>Research Assistant (PT)</strong><br>
+      Department of Economics and Finance, City University of Hong Kong
+    </div>
+  </div>
+</div>

@@ -6,20 +6,17 @@ main:
   - title: "Research"
     url: /my-publication/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Awards"
+    url: /awards/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Experiences"
-    url: /experiences/   
+    url: /experiences/
 
   - title: "Services"
-    url: /services/     
-
-  - title: "Awards"
-    url: /awards/   
+    url: /services/   
     
   # - title: "Portfolio"
   #   url: /portfolio/

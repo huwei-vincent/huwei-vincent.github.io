@@ -68,6 +68,30 @@
   - 导航：面包屑添加浅灰背景和底部边框（`_navigation.scss`）
   - 编码：`main.scss` 添加 `@charset "utf-8"` 防止 SCSS 编译错误
 
+- [x] **#47** 导航栏排序优化（`_data/navigation.yml`）
+  - Research → Awards → Teaching → Experiences → Services → CV
+
+- [x] **#48** 首页快速导航卡片（`about.md`、`about-cn.md`、`_sass/_page.scss`）
+  - 在简介下方添加 4 个卡片式快捷链接（Research / Teaching / CV / Awards）
+  - 中文版同步添加对应中文标签
+
+- [x] **#49** Services 页面按会议层级分组（`services.md`）
+  - Conference Review 分为 "Premier IS Conferences"（ICIS, PACIS, CIST）和 "Specialized Conferences"
+
+- [x] **#50** Awards 页面按类别分组（`awards.md`）
+  - 分为 Teaching & Research Excellence / University Recognition / Competition Awards / Scholarships
+
+- [x] **#51** Experiences 页面时间线布局（`experiences.md`、`_sass/_page.scss`）
+  - 使用 `.timeline` 组件，添加年份标记和圆点装饰的垂直时间线
+
+- [x] **#52** 论文摘要可展开/折叠（`my-publication.md`、`_sass/_page.scss`）
+  - Preprints 使用 `<details>/<summary>` 实现可展开摘要
+  - 添加 `.pub-abstract` CSS 样式
+
+- [x] **#53** CV 页面增强（`cv.md`、`_sass/_page.scss`）
+  - 添加 "At a Glance" 简要信息块
+  - 下载链接改为主色调按钮样式
+
 ## 待完成（需人工操作）
 
 - [x] **#25** 评估 Blog 外链去留（`_data/navigation.yml`）
@@ -88,17 +112,18 @@
 
 | 文件 | 改动项 |
 |------|--------|
-| `_pages/my-publication.md` | #13, #19, #36 |
-| `_data/navigation.yml` | #14, #23, #25 |
+| `_pages/my-publication.md` | #13, #19, #36, #52 |
+| `_data/navigation.yml` | #14, #23, #25, #47 |
 | `_data/authors.yml` | #38 |
-| `_pages/about.md` | #15, #17, #18, #23, #24, #36, #40 |
-| `_pages/about-cn.md` | #15, #17, #18, #24, #36 |
-| `_pages/awards.md` | #36 |
-| `_pages/experiences.md` | #36 |
-| `_pages/services.md` | #36 |
+| `_pages/about.md` | #15, #17, #18, #23, #24, #36, #40, #48 |
+| `_pages/about-cn.md` | #15, #17, #18, #24, #36, #48 |
+| `_pages/awards.md` | #36, #50 |
+| `_pages/experiences.md` | #36, #51 |
+| `_pages/services.md` | #36, #49 |
+| `_pages/cv.md` | #53 |
 | `_pages/teaching.html` | #36 |
 | `_sass/_variables.scss` | #16, #29 |
-| `_sass/_page.scss` | #20 |
+| `_sass/_page.scss` | #20, #48, #51, #52, #53 |
 | `_sass/_sidebar.scss` | #21 |
 | `_sass/_print.scss` | #43 |
 | `images/` (favicon 生成) | #33 |
