@@ -44,7 +44,7 @@ My primary research interest lies at the intersection of **Financial Technology 
 
 # Research Interests
 
-- **FinTech:** Crowdfunding, Innovation Management, Intelligent Marketing, Non-Fungible Tokens
+- **FinTech:** Crowdfunding, Innovation Management, Intelligent Marketing
 - **Others:** Social Media, Applications of Large Language Models (LLMs)
 
 ---
